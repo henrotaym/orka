@@ -1,0 +1,4 @@
+SERVER_NAME = "orka"
+APP_NAME = "orka"
+GITHUB_REPOSITORY_NAME ="orka"
+APP_ENVIRONMENT = "production"

@@ -1,0 +1,2 @@
+APP_NAME = "orka"
+GITHUB_REPOSITORY_NAME ="orka"
